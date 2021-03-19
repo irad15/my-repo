@@ -12,7 +12,7 @@
     console.log(val)
     console.log('idan')
     console.log('idan.yacobi')
-
+    console.log('idan.and irad')
 
 //
 
