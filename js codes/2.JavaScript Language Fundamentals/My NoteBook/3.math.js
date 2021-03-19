@@ -10,6 +10,9 @@
     val= Math.round(2.499999999)
     val= Math.atan (1)
     console.log(val)
+    console.log('idan')
+    console.log('idan.yacobi')
+
 
 //
 
