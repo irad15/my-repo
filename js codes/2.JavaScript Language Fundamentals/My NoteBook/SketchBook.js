@@ -126,10 +126,24 @@ if (ad>=100){
 
 
 
+const arr = [];
+
+let x =2
+
+const y = {
+  hello: "world"
+}
 
 
+function sub(x , y){
+  return x-y
+}
+function sum ( x, y){
+  var z = 76
+  return x+y
+}
+class person {
+  eye = this.eye
 
-
-
-
-
+}
+sub(2,3)
